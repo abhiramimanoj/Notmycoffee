@@ -1,5 +1,6 @@
 # ☕ Coffee Brew App Mockup
 
+order coffee, make ur customisation just to end up with something u never asked for. useless, innit?
 This project was born during a caffeine-fueled hackathon sprint.  
 Built with **Next.js**, styled with a generous sprinkle of AI magic, and deployed on **Vercel**.  
 
