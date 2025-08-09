@@ -22,10 +22,10 @@ cd coffee-brew-app-mockup
 npm install
 npm run dev
 
+
+
 🙏 Acknowledgements
 
     Orchid AI for doing the heavy lifting.
-
-    Hackathon judges for believing in the dream.
 
     Coffee for emotional and chemical support
